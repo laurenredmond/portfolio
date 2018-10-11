@@ -1,9 +1,9 @@
 {
   "main.css": "static/css/main.2f8c52e0.css",
   "main.css.map": "static/css/main.2f8c52e0.css.map",
-  "main.js": "static/js/main.4785b1df.js",
-  "main.js.map": "static/js/main.4785b1df.js.map",
-  "static\\media\\blk-video-bg.MOV": "static/media/blk-video-bg.550493f9.MOV",
+  "main.js": "static/js/main.62984180.js",
+  "main.js.map": "static/js/main.62984180.js.map",
+  "static\\media\\blk-video-bg.gif": "static/media/blk-video-bg.ffe1d36c.gif",
   "static\\media\\coffee-code-bg.png": "static/media/coffee-code-bg.1b51b2d0.png",
   "static\\media\\coffee-design-bg.png": "static/media/coffee-design-bg.64e5c1ad.png",
   "static\\media\\coffee-photograph-bg.png": "static/media/coffee-photograph-bg.4a3b05ab.png",
@@ -12,5 +12,5 @@
   "static\\media\\guitar.jpg": "static/media/guitar.747d30d9.jpg",
   "static\\media\\pandp-logo-glitch.gif": "static/media/pandp-logo-glitch.52390b28.gif",
   "static\\media\\portfolio-logo-glitch.gif": "static/media/portfolio-logo-glitch.dc970c88.gif",
-  "static\\media\\record-player.MOV": "static/media/record-player.b0091a8b.MOV"
+  "static\\media\\record-player.gif": "static/media/record-player.bb0c8a31.gif"
 }
