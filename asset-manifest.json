@@ -1,10 +1,11 @@
 {
   "main.css": "static/css/main.bfbd8a53.css",
   "main.css.map": "static/css/main.bfbd8a53.css.map",
-  "main.js": "static/js/main.62e51dac.js",
-  "main.js.map": "static/js/main.62e51dac.js.map",
-  "static\\media\\blk-video-bg-sm.gif": "static/media/blk-video-bg-sm.2ce8d57f.gif",
-  "static\\media\\blk-video-bg.gif": "static/media/blk-video-bg.ffe1d36c.gif",
+  "main.js": "static/js/main.d8d6845b.js",
+  "main.js.map": "static/js/main.d8d6845b.js.map",
+  "static\\media\\blk-video-bg-lg.gif": "static/media/blk-video-bg-lg.ffe1d36c.gif",
+  "static\\media\\blk-video-bg-md.gif": "static/media/blk-video-bg-md.2ce8d57f.gif",
+  "static\\media\\blk-video-bg-sm.gif": "static/media/blk-video-bg-sm.518f29df.gif",
   "static\\media\\coffee-code-bg.png": "static/media/coffee-code-bg.1b51b2d0.png",
   "static\\media\\coffee-design-bg.png": "static/media/coffee-design-bg.64e5c1ad.png",
   "static\\media\\coffee-photograph-bg.png": "static/media/coffee-photograph-bg.4a3b05ab.png",
@@ -15,6 +16,7 @@
   "static\\media\\guitar.jpg": "static/media/guitar.747d30d9.jpg",
   "static\\media\\pandp-logo-glitch.gif": "static/media/pandp-logo-glitch.ed46db81.gif",
   "static\\media\\portfolio-logo-glitch.gif": "static/media/portfolio-logo-glitch.dc970c88.gif",
-  "static\\media\\record-player-resize.gif": "static/media/record-player-resize.e595f77f.gif",
-  "static\\media\\record-player.gif": "static/media/record-player.bb0c8a31.gif"
+  "static\\media\\record-player-lg.gif": "static/media/record-player-lg.363a9465.gif",
+  "static\\media\\record-player-md.gif": "static/media/record-player-md.e595f77f.gif",
+  "static\\media\\record-player-sm.gif": "static/media/record-player-sm.920770cd.gif"
 }
